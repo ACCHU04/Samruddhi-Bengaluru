@@ -15,7 +15,7 @@
   },
   "functions": [
     {
-      "source": ".",
+      "source": "functions",
       "codebase": "default",
       "runtime": "nodejs20",
       "ignore": [
@@ -23,7 +23,8 @@
         ".git",
         "firebase-debug.log",
         "firebase.json",
-        "nammaeco"
+        "nammaeco",
+        "scratch"
       ]
     }
   ]
