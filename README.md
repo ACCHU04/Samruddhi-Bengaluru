@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="Samruddhi Bengaluru" width="600">
+  <img src="https://raw.githubusercontent.com/ACCHU04/Samruddhi-Bengaluru/main/assets/logo.svg" alt="Samruddhi Bengaluru" width="600">
 </p>
 
 # Mitra NammaEco
